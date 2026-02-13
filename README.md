@@ -1,1 +1,3 @@
-# Ofentse | Cyber Defense & Cloud/Security Operations
+# Hey there! I'm Ofentse 
+### Cyber Defense & Cloud/Security Operations 
+
