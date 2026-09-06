@@ -1,5 +1,3 @@
-# :)...
-
 # Infrastructure/Operations [Specialist] 
-
+### :)
 
